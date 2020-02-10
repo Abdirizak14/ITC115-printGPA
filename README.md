@@ -1,1 +1,1 @@
-# ITC115-printGPA
+ITC115-Season-and-pringGPA-method
